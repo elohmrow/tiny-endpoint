@@ -8,7 +8,7 @@
 
   <groupId>info.magnolia.training</groupId>
   <artifactId>tiny-endpoint</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jar</packaging>
   <name>tiny-endpoint Magnolia Module</name>
 
@@ -22,7 +22,7 @@
     <connection>scm:git:https://git.magnolia-cms.com/scm/~had/tiny-endpoint.git</connection>
     <developerConnection>scm:git:https://git.magnolia-cms.com/scm/~had/tiny-endpoint.git</developerConnection>
     <url>https://git.magnolia-cms.com/users/had/repos/tiny-endpoint/browse</url>
-    <tag>HEAD</tag>
+    <tag>tiny-endpoint-1.0</tag>
   </scm>
 
   <dependencies>
