@@ -19,9 +19,9 @@
 
   <!-- Please double-check these URLs -->
   <scm>
-    <connection>scm:git:http://git.magnolia-cms.com/forge/tiny-endpoint</connection>
-    <developerConnection>scm:git:https://git.magnolia-cms.com/forge/tiny-endpoint</developerConnection>
-    <url>http://git.magnolia-cms.com/gitweb/?p=forge/tiny-endpoint</url>
+    <connection>scm:git:https://git.magnolia-cms.com/scm/~had/tiny-endpoint.git</connection>
+    <developerConnection>scm:git:https://git.magnolia-cms.com/scm/~had/tiny-endpoint.git</developerConnection>
+    <url>https://git.magnolia-cms.com/users/had/repos/tiny-endpoint/browse</url>
     <tag>HEAD</tag>
   </scm>
 
